@@ -1,5 +1,5 @@
 # ORIE 4741_Project
-Name of the Project:  Housing Sales price prediction
+Name of the Project:  Housing Sales Price Prediction
 
 Name of Team Members: Pooja Choudhary (pc676) , Sreenu Chandran (sc2886), Ning Li(nl488)
 
